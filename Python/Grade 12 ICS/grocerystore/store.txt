@@ -1,0 +1,12 @@
+Apples,Produce,2.49,🍎
+Bread,Bakery,2.49,🍞
+Cereal,Grocery,4.49,🥣
+Chicken,Meat,6.99,🍗
+Coffee,Beverages,7.99,☕
+Ice Cream,Frozen,5.49,🍨
+Laptop,Electronics,899.99,💻
+Milk,Dairy,3.49,🥛
+Pasta,Grocery,1.29,🍝
+Shampoo,Toiletries,5.99,🧴
+Socks,Apparel,6.99,🧦
+Egg,Produce,1.99,🥚
